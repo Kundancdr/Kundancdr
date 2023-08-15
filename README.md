@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Kundancdr
-- 👀 I’m interested in WEB DEV
+- 👀 I’m interested in Android Development
 - 🌱 I’m currently learning DSA
 - 📫 How to reach me come to dubai
 
